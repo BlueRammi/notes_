@@ -1,2 +1,2 @@
-# notes_
+* notes_
 Various lecture notes 
