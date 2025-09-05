@@ -134,21 +134,18 @@
    \[X\neq Y \implies X\times Y\neq Y\times X\]
    
 ** свойство операций  над множествами
-Коммутативность
-\(\mathbb{A}\cup \mathbb{B}=\mathbb{B}\cup \mathbb{A}\) 
-\(\mathbb{A}\cap \mathbb{B}=\mathbb{B}\cap \mathbb{A}\) 
-Ассоциативность
-\(A\cup (B\cup C)=(A\cup B)\cup C\)
-Дистрибутивность
-\(A\cup(B\cap C)=(A\cup B)\cap(A\cup C)\)
-\(A\cap(B\cup C)=(A\cap B)\cup(A\cap C)\)
-Идемпонтность
-\(A\cup A=A\)
-\(A\cap A=A\)
-
-\(A\cup \varnothing = A\)
-\(A\cap \varnothing = A\)
-
+| Свойство         | Символьно                                         |
+|------------------+---------------------------------------------------|
+| Коммутативность  | $\mathbb{A}\cup \mathbb{B}=\mathbb{B}\cup \mathbb{A}$ |
+|                  | $\mathbb{A}\cap \mathbb{B}=\mathbb{B}\cap \mathbb{A}$ |
+| Ассоциативность  | $A\cup (B\cup C)=(A\cup B)\cup C$                           |
+| Дистрибутивность | $A\cup(B\cap C)=(A\cup B)\cap(A\cup C)$                        |
+|                  | $A\cap(B\cup C)=(A\cap B)\cup(A\cap C)$                        |
+| Идемпонтность    | $A\cup A=A$                                        |
+|                  | $A\cap A=A$                                        |
+|                  |                                                   |
+|                  | $A\cup \varnothing = A$                            |
+|                  | $A\cap \varnothing = A$                            |
 * Парадокс Рассела (1872-1970)
 К множество всех множеств
 \(p(K)\) - множество не содержит себя в качестве своего элемента
