@@ -1,0 +1,17 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+**/ltximg/
+**/.DS_Store/
+
+#Sketches
+sk-*.org
