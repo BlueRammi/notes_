@@ -149,37 +149,22 @@ $*: M \times M(a,b) \rightarrow M(a * b)$
    \(\mathbb{A}=\{(x,y)|x= y\}\)
 3. симметричным, если \(\forall x, y\in \mathbb{A}((x,y)\in y\implies (y, x)\in \phi)\)
    
-   
-    \[
-    \mathbb{A} = \{ (x, y) \mid |x| = |y| \}
-    \]
+    \[\mathbb{A} = \{ (x, y) \mid |x| = |y| \} \]
     
-    \[
-    \mathbb{A} = \{ (x, y) \mid x = y \}
-    \]
+    \[\mathbb{A} = \{ (x, y) \mid x = y \} \]
     
-    \[
-    \mathbb{A} = \{ (x, y) \mid x + y \leq 3 \}
-    \]
+    \[\mathbb{A} = \{ (x, y) \mid x + y \leq 3 \} \]
 1. транзитивным, если \(\forall x, y\in \mathbb{A}((x, y)\in \phi\land (y, z)\in \phi\implies (x, z)\in\phi)\)
    
-   примеры(\(x, y\in \mxthyy{Z}\))
+   примеры(\(x, y\in \mathbb{Z}\))
    
-    \[
-    \mathbb{A} = \{ (x, y) \mid x \leq y \}
-    \]
+    \[\mathbb{A} = \{ (x, y) \mid x \leq y \} \]
     
-    \[
-    \mathbb{A} = \{ (x, y) \mid x > y \}
-    \]
+    \[\mathbb{A} = \{ (x, y) \mid x > y \} \]
     
-    \[
-    \mathbb{A} = \{ (x, y) \mid |x| = |y| \}
-    \]
+    \[\mathbb{A} = \{ (x, y) \mid |x| = |y| \} \]
     
-    \[
-    \mathbb{A} = \{ (x, y) \mid x = y \}
-    \]
+    \[\mathbb{A} = \{ (x, y) \mid x = y \} \]
 3. отношением эквивалентости если соблюдаются предыдущие три свойства.
     Отношение эквивалентности разбивает множество, на котором оно задано на классы эквивалентности — непустые, попарно непересекающиеся подмножества, объединения которого равны а.
 4. иррефлексивным (антирефлексивным), если для \(\forall x\in \mathbb{A} ((x, x)\notin \phi)\)
