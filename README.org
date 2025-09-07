@@ -2,6 +2,8 @@
 
 [[file:russian/]] - русский
 
-[[file:math_analysis/]] - математический анализ. [[file:math_analysis/TOC.org][Содержание]] 
+[[file:math_analysis/]] - математический анализ. [[file:math_analysis/TOC.org][Содержание+литература]] 
+
+[[file:algebra/]] - алгебра  [[file:algebra/TOC.org][Содержание+литература]]
 
 Публикуются по мере обработки и настроения.
