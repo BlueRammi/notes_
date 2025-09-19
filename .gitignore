@@ -2,6 +2,9 @@
 *~
 \#*\#
 *.elc
+*.jl
+*.log
+*.tex
 auto-save-list
 tramp
 .\#*

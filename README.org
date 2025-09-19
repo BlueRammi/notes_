@@ -1,9 +1,19 @@
 Всякие конспекты
 
 [[file:russian/]] - русский
+[[file:history/]] - история
 
-[[file:math_analysis/]] - математический анализ. [[file:math_analysis/TOC.org][Содержание+литература]] 
+[[file:graphs/]] - графики(пофиг что там написано графы) [[file:graphs/TOC.org][Содержание]]
 
-[[file:algebra/]] - алгебра  [[file:algebra/TOC.org][Содержание+литература]]
+Вынесены в один конспект потому что нельзя полностью соотнести мои конспекты с лекциями.
+математический анализ.  [[file:math_analysis_notes.pdf]]
+[[file:math_analysis_notes.org]] 
+
+алгебра [[file:algebra_notes.pdf]] 
+[[file:algebra_notes.org]]
+
+геометрия с нму [[file:geometry_notes.pdf]] 
+[[file:geometry_notes.org]]
+
 
 Публикуются по мере обработки и настроения.
